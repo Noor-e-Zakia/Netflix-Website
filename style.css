@@ -1,0 +1,81 @@
+.start{
+    position: absolute;
+    top: 10%;
+    right: 70%;
+    transform: translate(-50%,-50%);
+    font-size: larger;
+}
+
+.sign-button{
+    position: absolute;
+    top: 10%;
+    left: 80%;
+    transform: translate(-50%,-50%);
+}
+.sign-button a{
+    text-decoration: none;
+}
+.main-text{
+    position: absolute;
+    top: 30%;
+    left: 20%; 
+}
+.email-input{
+    position: absolute;
+    top: 50%;
+    left: 30%; 
+}
+.email-input .button-start{
+    position: absolute;
+    top: 40%;
+   left: 110%;
+}
+
+.text-one h1{
+    position: absolute;
+    padding-left: 70px;
+    padding-top: 40px;
+}
+.text-one h5{
+    position: absolute;
+    padding-left: 70px;
+    padding-top: 90px;
+}
+.text-one .one-img{
+
+    padding-left: 70%;
+}
+.text-two h1{
+    position: absolute;
+    padding-left: 70px;
+    padding-top: 40px;
+}
+.text-two h5{
+    position: absolute;
+    padding-left: 70px;
+    padding-top: 130px;
+}
+.text-two .one-img{
+
+    padding-left: 70%;
+}
+
+footer ul{
+    display: inline-block;
+    list-style-type: none;
+    margin: 26px;
+    
+}
+
+footer ul li a{
+    color: white;
+}
+footer{
+    width: 100%;
+    padding: 30px 30px;
+    text-align: start;
+}
+
+footer ul a{
+    text-decoration: none;
+}
